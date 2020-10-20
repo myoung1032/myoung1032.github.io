@@ -6,7 +6,21 @@
     <description>Recent content in Posts on mao&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://myoung1032.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://myoung1032.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>黑与白</title>
+      <link>https://myoung1032.github.io/p/2/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myoung1032.github.io/p/2/</guid>
+      <description>今日依旧是个短篇，因为次晨要早起。
+写得比昨晚要稍早一点，不过也不能写太多了。
+题目是根据社会学选读起的，黑皮肤，白面具。
+书没看，但是还想写东西。
+事情有点多，但是还要一件件去做。
+总之，一切真正重要的都值得去做。</description>
+    </item>
+    
     <item>
       <title>HUGO第二篇</title>
       <link>https://myoung1032.github.io/p/%E4%BC%AA%E5%9C%B0%E5%9D%80/</link>
@@ -24,6 +38,18 @@ remote: Compressing objects: 100% (11/11), done. &#39;&#39;&#39;
   fatal: index-pack failed
   第一行 dierhang
  </description>
+    </item>
+    
+    <item>
+      <title>开山篇</title>
+      <link>https://myoung1032.github.io/p/1/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myoung1032.github.io/p/1/</guid>
+      <description>其实早就部署好了，这两天也一直在做博客相关的东西。只是因为周五去了一趟广州，看到了一位有着丰富博客的同行，所以也去写博客了。
+很遗憾开山篇的内容很少，现在已是凌晨1点钟，虽然日期对不上号，但是也算是一整天的结束了。
+最好放弃hexo选用hugo也是有原因的，hexo总有一种年久失修的感觉，而hugo主题在github上更新的很频繁。
+睡去了，纵有千言万语，来日方长。</description>
     </item>
     
     <item>

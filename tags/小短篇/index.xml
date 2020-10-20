@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小短篇 on mao&#39;s blog</title>
+    <link>https://myoung1032.github.io/tags/%E5%B0%8F%E7%9F%AD%E7%AF%87/</link>
+    <description>Recent content in 小短篇 on mao&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://myoung1032.github.io/tags/%E5%B0%8F%E7%9F%AD%E7%AF%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>黑与白</title>
+      <link>https://myoung1032.github.io/p/2/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myoung1032.github.io/p/2/</guid>
+      <description>今日依旧是个短篇，因为次晨要早起。
+写得比昨晚要稍早一点，不过也不能写太多了。
+题目是根据社会学选读起的，黑皮肤，白面具。
+书没看，但是还想写东西。
+事情有点多，但是还要一件件去做。
+总之，一切真正重要的都值得去做。</description>
+    </item>
+    
+    <item>
+      <title>开山篇</title>
+      <link>https://myoung1032.github.io/p/1/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myoung1032.github.io/p/1/</guid>
+      <description>其实早就部署好了，这两天也一直在做博客相关的东西。只是因为周五去了一趟广州，看到了一位有着丰富博客的同行，所以也去写博客了。
+很遗憾开山篇的内容很少，现在已是凌晨1点钟，虽然日期对不上号，但是也算是一整天的结束了。
+最好放弃hexo选用hugo也是有原因的，hexo总有一种年久失修的感觉，而hugo主题在github上更新的很频繁。
+睡去了，纵有千言万语，来日方长。</description>
+    </item>
+    
+  </channel>
+</rss>
