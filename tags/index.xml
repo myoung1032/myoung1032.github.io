@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mao&#39;s Homepage</title>
-    <link>https://myoung1032.github.io/tags/</link>
+    <link>http://maozj.site/tags/</link>
     <description>Recent content in Tags on Mao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://myoung1032.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://maozj.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>https://myoung1032.github.io/tags/css/</link>
+      <link>http://maozj.site/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://myoung1032.github.io/tags/css/</guid>
+      <guid>http://maozj.site/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://myoung1032.github.io/tags/html/</link>
+      <link>http://maozj.site/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://myoung1032.github.io/tags/html/</guid>
+      <guid>http://maozj.site/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://myoung1032.github.io/tags/markdown/</link>
+      <link>http://maozj.site/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://myoung1032.github.io/tags/markdown/</guid>
+      <guid>http://maozj.site/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://myoung1032.github.io/tags/themes/</link>
+      <link>http://maozj.site/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://myoung1032.github.io/tags/themes/</guid>
+      <guid>http://maozj.site/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag with whitespaces</title>
-      <link>https://myoung1032.github.io/tags/tag-with-whitespaces/</link>
+      <link>http://maozj.site/tags/tag-with-whitespaces/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://myoung1032.github.io/tags/tag-with-whitespaces/</guid>
+      <guid>http://maozj.site/tags/tag-with-whitespaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://myoung1032.github.io/tags/text/</link>
+      <link>http://maozj.site/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://myoung1032.github.io/tags/text/</guid>
+      <guid>http://maozj.site/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://myoung1032.github.io/tags/emoji/</link>
+      <link>http://maozj.site/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://myoung1032.github.io/tags/emoji/</guid>
+      <guid>http://maozj.site/tags/emoji/</guid>
       <description></description>
     </item>
     
