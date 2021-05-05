@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Mao&#39;s Homepage</title>
-    <link>http://maozj.site/page/</link>
+    <link>maozj.site/page/</link>
     <description>Recent content in Pages on Mao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://maozj.site/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="maozj.site/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archives</title>
-      <link>http://maozj.site/archives/</link>
+      <link>maozj.site/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://maozj.site/archives/</guid>
+      <guid>maozj.site/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://maozj.site/about/</link>
+      <link>maozj.site/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://maozj.site/about/</guid>
+      <guid>maozj.site/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
