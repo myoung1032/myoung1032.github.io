@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technotes on Mao&#39;s Homepage</title>
-    <link>maozj.site/technotes/</link>
+    <link>http://maozhenjiang.com/technotes/</link>
     <description>Recent content in Technotes on Mao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="maozj.site/technotes/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://maozhenjiang.com/technotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>maozj.site/technotes/docs/</link>
+      <link>http://maozhenjiang.com/technotes/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/technotes/docs/</guid>
+      <guid>http://maozhenjiang.com/technotes/docs/</guid>
       <description>配置主题 {% hint style=&amp;ldquo;warning&amp;rdquo; %} 主题最新的配置文件可以在 exampleSite/config.yaml 找到，本页面的内容可能会过期。 {% endhint %}
 Hugo 的配置存放在站点根目录的 config.yaml 里（其实也可以使用 TOML，但本主题默认提供的配置文件为 YAML 格式）
 与主题相关的配置字段存放在 params 对象下：

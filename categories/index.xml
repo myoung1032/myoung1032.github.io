@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mao&#39;s Homepage</title>
-    <link>maozj.site/categories/</link>
+    <link>http://maozhenjiang.com/categories/</link>
     <description>Recent content in Categories on Mao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="maozj.site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://maozhenjiang.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>maozj.site/categories/test/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Research</title>
+      <link>http://maozhenjiang.com/categories/research/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>测试</title>
-      <link>maozj.site/categories/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>maozj.site/categories/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>http://maozhenjiang.com/categories/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>maozj.site/categories/syntax/</link>
+      <link>http://maozhenjiang.com/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/categories/syntax/</guid>
+      <guid>http://maozhenjiang.com/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>maozj.site/categories/themes/</link>
+      <link>http://maozhenjiang.com/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/categories/themes/</guid>
+      <guid>http://maozhenjiang.com/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://maozhenjiang.com/categories/test/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://maozhenjiang.com/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test with whitespaces</title>
-      <link>maozj.site/categories/test-with-whitespaces/</link>
+      <link>http://maozhenjiang.com/categories/test-with-whitespaces/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/categories/test-with-whitespaces/</guid>
+      <guid>http://maozhenjiang.com/categories/test-with-whitespaces/</guid>
       <description></description>
     </item>
     

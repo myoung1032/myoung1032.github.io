@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mao&#39;s Homepage</title>
-    <link>maozj.site/tags/</link>
+    <link>http://maozhenjiang.com/tags/</link>
     <description>Recent content in Tags on Mao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="maozj.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://maozhenjiang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>maozj.site/tags/css/</link>
+      <link>http://maozhenjiang.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/tags/css/</guid>
+      <guid>http://maozhenjiang.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>maozj.site/tags/html/</link>
+      <link>http://maozhenjiang.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/tags/html/</guid>
+      <guid>http://maozhenjiang.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>maozj.site/tags/markdown/</link>
+      <link>http://maozhenjiang.com/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/tags/markdown/</guid>
+      <guid>http://maozhenjiang.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>maozj.site/tags/themes/</link>
+      <link>http://maozhenjiang.com/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/tags/themes/</guid>
+      <guid>http://maozhenjiang.com/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag with whitespaces</title>
-      <link>maozj.site/tags/tag-with-whitespaces/</link>
+      <link>http://maozhenjiang.com/tags/tag-with-whitespaces/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/tags/tag-with-whitespaces/</guid>
+      <guid>http://maozhenjiang.com/tags/tag-with-whitespaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>maozj.site/tags/text/</link>
+      <link>http://maozhenjiang.com/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/tags/text/</guid>
+      <guid>http://maozhenjiang.com/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>maozj.site/tags/emoji/</link>
+      <link>http://maozhenjiang.com/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>maozj.site/tags/emoji/</guid>
+      <guid>http://maozhenjiang.com/tags/emoji/</guid>
       <description></description>
     </item>
     
