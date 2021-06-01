@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Mao&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://maozhenjiang.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://maozhenjiang.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>contest</title>
+      <link>http://maozhenjiang.com/categories/contest/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://maozhenjiang.com/categories/contest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honor</title>
+      <link>http://maozhenjiang.com/categories/honor/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://maozhenjiang.com/categories/honor/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Research</title>
       <link>http://maozhenjiang.com/categories/research/</link>
@@ -17,20 +35,11 @@
     </item>
     
     <item>
-      <title>syntax</title>
-      <link>http://maozhenjiang.com/categories/syntax/</link>
+      <title>notes</title>
+      <link>http://maozhenjiang.com/categories/notes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://maozhenjiang.com/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>http://maozhenjiang.com/categories/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://maozhenjiang.com/categories/themes/</guid>
+      <guid>http://maozhenjiang.com/categories/notes/</guid>
       <description></description>
     </item>
     
